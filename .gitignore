@@ -1,0 +1,9 @@
+# Node modules
+mobile/node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# Bytecode
+__pycache__/
+*.pyc
